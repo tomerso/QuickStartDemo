@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="QuickStartDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/QuickStartDemo_jar</output-path>
+    <root id="archive" name="QuickStartDemo.jar">
+      <element id="module-output" name="QuickStartDemo" />
+    </root>
+  </artifact>
+</component>
