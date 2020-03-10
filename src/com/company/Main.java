@@ -11,6 +11,10 @@ public class Main {
         int a= 3+2;
         a = a+3;
 
+        int temp1 =3;
+
+        int tempt = 9;
+
         GlobalClass gb;
     }
 }
