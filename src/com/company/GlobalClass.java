@@ -22,7 +22,7 @@ public class GlobalClass implements IGlobalClass {
 
     @Override
     public void MyNewMethod() {
-        int xyz=666;
+        int xyz=6663;
     }
 
     public GlobalClass(int num){
