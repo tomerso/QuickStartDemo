@@ -13,8 +13,9 @@ public class GlobalClass implements IGlobalClass {
     @Override
     public void OverideMethod(String val)
     {
+        int count = 0;
         for (int i = 0; i < 10; i++) {
-
+            count+=i;
         }
 
     }
