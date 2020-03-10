@@ -13,6 +13,10 @@ public class Main {
 
         int checkz=3;
 
+        int temp1 =3;
+
+        int tempt = 9;
+
         GlobalClass gb;
     }
 }
