@@ -11,6 +11,8 @@ public class Main {
         int a= 3+2;
         a = a+3;
 
+        int checkz=3;
+
         GlobalClass gb;
     }
 }
