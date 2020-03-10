@@ -20,6 +20,11 @@ public class GlobalClass implements IGlobalClass {
 
     }
 
+    @Override
+    public void MyNewMethod() {
+
+    }
+
     public GlobalClass(int num){
         this.number = num;
     }
